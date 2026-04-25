@@ -1,0 +1,47 @@
+[
+  {
+    "id": "831648b4-73c7-4c79-9d56-8353561ccea2",
+    "company": "Nitecapp Inc",
+    "position": "AI Product Specialist",
+    "date": "2026-04-24T16:51:35.643704",
+    "quality_score": 71,
+    "letter_preview": "We need to write a 300-word cover letter exactly 3 paragraphs. Must be exactly 300 words. Must inclu\u2026",
+    "pdf_path": "/Users/nova/Desktop/UMass/projects/CoverLetterGenerator/cl_gen/data/applications/NitecappInc_AIProductSpecialist_2026-04-24.pdf",
+    "job_data": {
+      "company_name": "Nitecapp Inc",
+      "position_title": "AI Product Specialist",
+      "location": "Remote",
+      "employment_type": "Internship",
+      "salary_range": null,
+      "key_requirements": [
+        "Junior",
+        "Bachelors",
+        "Computer Science(BS) major"
+      ],
+      "required_skills": [],
+      "nice_to_have_skills": [],
+      "experience_years": null,
+      "education": "Bachelors",
+      "company_description": "Nitecapp connects beverage suppliers to venues (hotels, resorts, restaurants, airline clubs, cruiselines, etc.) to uplevel skillsets and train guest facing teams (servers, bartenders, hosts, etc.) in product (menus) and property (venue) knowledge.",
+      "role_description": "Help build, test, and improve AI-powered features within the platform. Use AI for content generation, beverage program recommendations, training course creation, and data intelligence. Experiment with LLM prompting strategies for beverage education content generation, evaluate and improve AI-assisted course creation pipelines, research AI tools and frameworks applicable to hospitality and beverage, and help develop intelligent recommendation features for consumers and operators.",
+      "tech_stack": [],
+      "benefits": [],
+      "application_deadline": "May 16, 2026 at 11:59 PM",
+      "remote_policy": "Remote"
+    },
+    "research_summary": {
+      "momentum": "Nitecapp recently highlighted its 2026 valuation and funding growth, signaling strong investor confidence and plans to expand its AI-powered beverage training platform across hospitality, retail, and travel sectors.",
+      "culture": [
+        "Innovation",
+        "Customer Centricity",
+        "Sustainability",
+        "Collaboration",
+        "Integrity"
+      ],
+      "initiatives": [
+        "Launch of an AI-driven beverage training module that uses LLMs to generate customized coursework for hotel and restaurant chains",
+        "Expansion of the platform\u2019s recommendation engine to suggest beverage pairings based on real-time inventory and consumer preference data"
+      ]
+    }
+  }
+]

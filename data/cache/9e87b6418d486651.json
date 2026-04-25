@@ -1,0 +1,61 @@
+{
+  "key": "research::openai",
+  "created": 1777061692.393764,
+  "ttl": 86400,
+  "data": {
+    "company_momentum": "OpenAI recently unveiled GPT-5.5 and raised $122\u202fB to push frontier AI capabilities while strengthening safety guardrails.",
+    "cultural_keywords": [
+      "Innovation",
+      "Safety",
+      "Collaboration",
+      "Autonomy",
+      "Ethical"
+    ],
+    "pain_points": [
+      "Scaling deployment of cutting\u2011edge models across Azure Foundry",
+      "Balancing rapid model iteration with robust safety and guardrail implementation",
+      "Maintaining interdisciplinary collaboration in a fast\u2011paced research environment"
+    ],
+    "connection_angles": [
+      "Strong Python expertise applied to generative AI projects",
+      "Experience building and fine\u2011tuning models on Azure/cloud platforms",
+      "Track record of working safely and collaboratively on AI research teams"
+    ],
+    "recent_initiatives": [
+      "Launch of GPT\u20115.5 with enhanced coding and reasoning abilities",
+      "$122\u202fB funding round to expand frontier AI compute and responsible AI initiatives"
+    ],
+    "interview_questions": [
+      "How do you incorporate safety and ethical considerations when developing generative AI models?",
+      "Can you describe a project where you optimized a large language model for deployment on Azure Foundry?",
+      "How do you stay updated with the latest AI research and apply it to practical engineering challenges?"
+    ],
+    "talking_points": [
+      "Enthusiasm for contributing to the GPT\u20115.5 ecosystem and its responsible AI safeguards",
+      "Proven Python\u2011based generative AI experience that aligns with OpenAI\u2019s engineering needs",
+      "Commitment to fostering collaborative, interdisciplinary work while upholding rigorous safety standards"
+    ],
+    "red_flags": [
+      "Potential tension between aggressive deployment timelines and the need for thorough safety testing"
+    ],
+    "tech_stack_found": [
+      "Azure",
+      "Microsoft Foundry"
+    ],
+    "culture_details": {
+      "values": [
+        "Innovation",
+        "Safety",
+        "Collaboration"
+      ],
+      "work_style": "A fast-paced, research\u2011focused environment that encourages autonomy, interdisciplinary teamwork, and iterative experimentation while maintaining a strong commitment to AI safety and ethical impact.",
+      "key_traits": [
+        "Intellectually curious",
+        "Mission\u2011driven",
+        "Rigorous",
+        "Adaptable",
+        "Ethically conscious"
+      ]
+    }
+  }
+}

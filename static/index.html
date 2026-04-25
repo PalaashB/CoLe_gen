@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Cover Letter Generator</title>
+    <!-- Use Inter font for a modern look -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="glass-background"></div>
+    
+    <div class="app-container">
+        <!-- Sidebar for History -->
+        <aside class="sidebar glass-panel">
+            <div class="sidebar-header">
+                <h2>History</h2>
+            </div>
+            <div class="history-list" id="historyList">
+                <!-- History items will be injected here -->
+            </div>
+        </aside>
+
+        <!-- Main Content Area -->
+        <main class="main-content">
+            <header class="header text-center">
+                <h1 class="gradient-text">AI Cover Letter Generator</h1>
+                <p class="subtitle">Powered by NVIDIA Nemotron 120B</p>
+            </header>
+
+            <div class="panels-wrapper">
+                
+                <!-- Input Panel -->
+                <div class="panel input-panel glass-panel">
+                    <h2>Job Details</h2>
+                    <textarea id="jobInput" placeholder="Paste job URL or description here..."></textarea>
+                    
+                    <div class="controls">
+                        <select id="toneSelect" class="dropdown">
+                            <option value="professional">Professional Tone</option>
+                            <option value="casual">Casual Tone</option>
+                            <option value="formal">Formal Tone</option>
+                        </select>
+                        <button id="generateBtn" class="primary-btn">Generate Letter</button>
+                    </div>
+                </div>
+
+                <!-- Status & Output Panel -->
+                <div class="panel output-panel glass-panel">
+                    
+                    <!-- Research Status -->
+                    <div id="statusContainer" class="status-container hidden">
+                        <h3>Research Progress</h3>
+                        <ul id="statusList" class="status-list">
+                            <!-- Progress steps injection -->
+                        </ul>
+                        <div class="loader-line" id="researchLoader"></div>
+                    </div>
+
+                    <!-- Final Letter Display -->
+                    <div id="letterContainer" class="letter-container hidden">
+                        <div class="score-badge" id="scoreBadge">
+                            <span id="scoreValue"></span> / 100 Quality
+                        </div>
+                        <div id="letterContent" class="letter-content"></div>
+                        <div class="actions mt-4 hidden" id="downloadActions">
+                            <button id="downloadPdfBtn" class="secondary-btn">Download PDF</button>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </main>
+    </div>
+
+    <!-- Script -->
+    <script src="app.js"></script>
+</body>
+</html>

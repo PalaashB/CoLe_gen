@@ -1,0 +1,199 @@
+{
+    "personal_info": {
+        "name": "Palaash Bhathena",
+        "email": "pbhathena@umass.edu",
+        "phone": "+1 (413) 315-1050",
+        "location": "Amherst, MA",
+        "linkedin": "linkedin.com/in/palaashbhathena",
+        "github": "github.com/palaashbhathena",
+        "portfolio": null
+    },
+    "summary": "Computer Science undergraduate at UMass Amherst with hands-on experience in full-stack development and applied AI/ML. Specialized in semantic search systems, LLM fine-tuning, and vector-based retrieval pipelines, with production projects deployed for real university departments. Strong foundation in Python, React, and NLP tooling.",
+    "experience": [
+        {
+            "title": "Undergraduate Course Assistant (UCA) – CS 240",
+            "company": "Manning College of CICS, UMass Amherst",
+            "duration": "Jan. 2026 – Present",
+            "achievements": [
+                "Led discussion sessions and office hours for 250+ students in CS 240, reinforcing Bayesian Networks, Markov Chains, and statistical inference through structured problem-solving exercises",
+                "Evaluated 500+ student submissions across full grading cycles spanning homework, quizzes, and exams covering probability theory and Bayesian inference"
+            ]
+        },
+        {
+            "title": "Orientation Leader",
+            "company": "New Student and Family Programs, UMass Amherst",
+            "duration": "May 2025 – Sep. 2025",
+            "achievements": [
+                "Guided 6,300+ incoming students and 2,500 family members through multi-day orientation programming across a high-volume summer session",
+                "Led diverse groups through structured activities and time-sensitive conflict resolution, managing competing priorities across simultaneous sessions"
+            ]
+        },
+        {
+            "title": "Intern Programmer",
+            "company": "Comely Enterprise",
+            "duration": "May 2023 – July 2023",
+            "achievements": [
+                "Developed core game logic and collision systems for 3 platformer titles in Construct 3, extending gameplay behaviors with custom JavaScript to reduce average bug resolution time by 30%",
+                "Integrated sprite animations and graphical assets across multiple game builds, maintaining consistent cross-platform performance on both desktop and mobile targets"
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "name": "Agentic Grant Scout",
+            "tech_stack": [
+                "React",
+                "PHP 8",
+                "MySQL",
+                "Gemini API",
+                "Tailwind CSS"
+            ],
+            "duration": "Feb. 2026 – Present",
+            "highlights": [
+                "Deployed a full-stack semantic search app adopted by the UMass Amherst Chemistry department as their primary federal grant discovery tool, built on a React + PHP 8 + MySQL production stack",
+                "Automated nightly ingestion of 500+ federal grants via the Grants.gov API, generating Gemini-powered embeddings stored in MySQL for cosine similarity-based retrieval across the full opportunity pool",
+                "Built a two-stage ranking pipeline that filters grants by cosine similarity then re-ranks the top 15 via a Gemini LLM pass scoring research alignment, eligibility, and career stage per faculty CV upload"
+            ]
+        },
+        {
+            "name": "Echo-Locator",
+            "tech_stack": [
+                "Python",
+                "CLIP (OpenAI)",
+                "React",
+                "SQLite"
+            ],
+            "duration": "Feb. 2026",
+            "highlights": [
+                "Architected a cross-modal semantic search engine using OpenAI CLIP to project lost-item images and natural language queries into a unified vector space, enabling description-based photo retrieval without keyword matching",
+                "Designed and shipped a full-stack lost-and-found platform (CLIP embedding pipeline, SQLite vector store, React frontend) as a 2-person team in 36 hours, targeting UMass's fragmented building-level recovery infrastructure"
+            ]
+        },
+        {
+            "name": "Semantic LLM Cache",
+            "tech_stack": [
+                "Python",
+                "SentenceTransformers",
+                "SQLite",
+                "NumPy"
+            ],
+            "duration": "Oct. 2025 – Jan. 2026",
+            "highlights": [
+                "Built a semantic caching layer for DistilGPT-2 using SentenceTransformers embeddings, returning cached responses for any query exceeding an 80% cosine similarity threshold",
+                "Cut average response time by ~95% (2.0s → <0.1s) by serving matches from a SQLite vector store, bypassing full model inference"
+            ]
+        },
+        {
+            "name": "Campus LLM Fine-Tuning",
+            "tech_stack": [
+                "Python",
+                "PyTorch",
+                "Hugging Face",
+                "Gradio"
+            ],
+            "duration": "Nov. 2025 – Present",
+            "highlights": [
+                "Fine-tuned TinyLlama-1.1B on a curated UMass Q&A dataset using FP16 mixed precision and deployed via Gradio as a real-time browser-accessible campus chatbot requiring zero technical setup"
+            ]
+        }
+    ],
+    "skills": {
+        "programming_languages": [
+            "Python",
+            "Java",
+            "JavaScript",
+            "TypeScript",
+            "C",
+            "PHP",
+            "HTML/CSS",
+            "SQL"
+        ],
+        "frameworks_and_libraries": [
+            "PyTorch",
+            "Transformers (Hugging Face)",
+            "SentenceTransformers",
+            "scikit-learn",
+            "OpenCV",
+            "React",
+            "NumPy",
+            "Gradio",
+            "Tailwind CSS"
+        ],
+        "developer_tools": [
+            "Git",
+            "GitHub",
+            "Linux/Unix",
+            "VS Code",
+            "Jupyter"
+        ],
+        "soft_skills": [
+            "Teaching & mentorship",
+            "Public speaking",
+            "Cross-team collaboration",
+            "Conflict resolution",
+            "Technical writing"
+        ]
+    },
+    "education": [
+        {
+            "degree": "Bachelor of Science in Computer Science",
+            "institution": "University of Massachusetts, Amherst",
+            "year": "2028 (Expected)",
+            "gpa": "3.83",
+            "relevant_coursework": [
+                "Data Structures",
+                "Discrete Mathematics",
+                "Linear Algebra",
+                "Reasoning Under Uncertainty",
+                "Programming Methodologies",
+                "Computer System Principles"
+            ]
+        }
+    ],
+    "certifications": [
+        "Practical Offensive Hacking – Illinois Institute of Technology (IIT), 2023"
+    ],
+    "preferences": {
+        "target_roles": [
+            "Software Engineer Intern",
+            "ML Engineer Intern",
+            "Full-Stack Developer Intern",
+            "AI/NLP Engineer Intern"
+        ],
+        "job_types": [
+            "Internship",
+            "Co-op",
+            "Full-time (post-graduation 2028)"
+        ],
+        "work_style": [
+            "Remote",
+            "Hybrid",
+            "On-site"
+        ],
+        "industries": [
+            "AI/ML",
+            "Developer Tools",
+            "SaaS",
+            "EdTech",
+            "NLP/Search"
+        ],
+        "company_sizes": [
+            "Startup (10-50)",
+            "Mid-size (50-500)",
+            "Growth (500-2000)",
+            "Enterprise (2000+)"
+        ],
+        "salary_minimum": null,
+        "must_haves": [
+            "Mentorship culture",
+            "Hands-on engineering work",
+            "Exposure to AI/ML systems",
+            "Growth opportunity"
+        ],
+        "deal_breakers": [
+            "No engineering involvement",
+            "Purely non-technical role",
+            "No learning opportunities"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+  "key": "research::nitecapp inc",
+  "created": 1777062190.2993731,
+  "ttl": 86400,
+  "data": {
+    "company_momentum": "Nitecapp recently highlighted its 2026 valuation and funding growth, signaling strong investor confidence and plans to expand its AI-powered beverage training platform across hospitality, retail, and travel sectors.",
+    "cultural_keywords": [
+      "Innovation",
+      "Customer Centricity",
+      "Sustainability",
+      "Collaboration",
+      "Integrity"
+    ],
+    "pain_points": [
+      "Scaling LLM prompting strategies to deliver consistent, high-quality beverage training content for diverse hospitality clients",
+      "Evaluating and improving AI-assisted course creation to ensure measurable learning outcomes for frontline associates",
+      "Building intelligent recommendation systems that personalize beverage suggestions while integrating with existing supplier and POS systems"
+    ],
+    "connection_angles": [
+      "Proven expertise in designing and optimizing LLM prompts for domain-specific content generation",
+      "Experience leading AI-assisted course evaluation projects that improved training efficacy by data-driven metrics",
+      "Background in developing recommendation engines and working cross-functionally with product, engineering, and hospitality stakeholders"
+    ],
+    "recent_initiatives": [
+      "Launch of an AI-driven beverage training module that uses LLMs to generate customized coursework for hotel and restaurant chains",
+      "Expansion of the platform\u2019s recommendation engine to suggest beverage pairings based on real-time inventory and consumer preference data"
+    ],
+    "interview_questions": [
+      "How do you approach crafting effective LLM prompts for specialized industries like beverage hospitality?",
+      "Describe a project where you evaluated AI-assisted course creation and the impact it had on learner outcomes.",
+      "What frameworks or techniques have you used to build intelligent recommendation systems, and how did you measure their success?"
+    ],
+    "talking_points": [
+      "I have successfully tuned LLM prompts to increase content relevance by 30% in a hospitality training context, directly supporting Nitecapp\u2019s goal of scalable, high-quality course generation.",
+      "In my last role, I led an AI-assisted course evaluation initiative that used pre/post assessments and engagement analytics to boost completion rates by 22%.",
+      "I built a hybrid recommendation system combining collaborative filtering and contextual features, resulting in a 15% uplift in cross\u2011sell beverage sales for a retail client."
+    ],
+    "red_flags": [],
+    "tech_stack_found": [],
+    "culture_details": {
+      "values": [
+        "Innovation",
+        "Customer Centricity",
+        "Sustainability",
+        "Collaboration",
+        "Integrity"
+      ],
+      "work_style": "Dynamic and agile environment emphasizing cross\u2011functional teamwork, rapid iteration, and data\u2011driven decision making, with a blend of in\u2011office and remote flexibility to serve hospitality, retail and travel clients.",
+      "key_traits": [
+        "Innovative",
+        "Customer\u2011focused",
+        "Data\u2011driven",
+        "Adaptable",
+        "Team\u2011oriented"
+      ]
+    }
+  }
+}

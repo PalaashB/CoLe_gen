@@ -1,0 +1,17 @@
+2026-04-24T16:12:38 | tokens=40 | latency=0.7s | Say 'hello' and nothing else.
+2026-04-24T16:12:39 | tokens=107 | latency=1.0s | Extract the fruit from this sentence: "I like apples." Return JSON: {"fruit": "a
+2026-04-24T16:13:32 | tokens=1186 | latency=25.9s | Extract the following fields from this job posting text.
+Return ONLY a valid JSO
+2026-04-24T16:14:10 | tokens=1008 | latency=8.7s | Based on the following information about OpenAI, list the programming languages,
+2026-04-24T16:14:21 | tokens=1019 | latency=7.6s | Analyse the culture of OpenAI from the following information.
+Return a JSON obje
+2026-04-24T16:14:52 | tokens=3883 | latency=31.0s | Based on the following research about OpenAI, produce actionable insights for a 
+2026-04-24T16:22:21 | tokens=1850 | latency=20.8s | Extract the following fields from this job posting text.
+Return ONLY a valid JSO
+2026-04-24T16:22:45 | tokens=312 | latency=2.9s | Based on the following information about Nitecapp Inc, list the programming lang
+2026-04-24T16:22:52 | tokens=506 | latency=5.2s | Analyse the culture of Nitecapp Inc from the following information.
+Return a JSO
+2026-04-24T16:23:10 | tokens=1718 | latency=17.4s | Based on the following research about Nitecapp Inc, produce actionable insights 
+2026-04-24T16:46:35 | tokens=2154 | latency=17.8s | Extract the following fields from this job posting text.
+Return ONLY a valid JSO
+2026-04-24T16:51:35 | tokens=2241 | latency=299.8s | streaming
